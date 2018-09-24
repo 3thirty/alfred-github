@@ -6,9 +6,9 @@ The following variables must be set in the workflow in Alfred (see https://www.a
 
 | Variable Name | Meaning | Example |
 | ------------- | ------- | ------- |
-| branch | the github branch to open all links at | `master` |
 | giturl | the base URL of the github repository | `https://www.github.com/3thirty/alfred-github` |
 | workdir | the working directory that the github repository is checked out to locally | `/Users/ethan/work/alfred-github` |
+| branch | the github branch to open all links at | `master` |
 
 ## Usage
 The workflow currently opens 3 types of github URLS:
